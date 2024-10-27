@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Android Dev HW 03</string>
+    <string name="singer">Исполнитель</string>
+    <string name="compositionName">Наименование композиции</string>
+</resources>
